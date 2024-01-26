@@ -8,6 +8,8 @@
             Console.WriteLine("Test");
             Console.WriteLine("Test by Chun");
             Console.WriteLine("Test by Lun");
+            Console.WriteLine("Test by Chun");
+            Console.WriteLine("Test by Lun2");
         }
     }
 }
