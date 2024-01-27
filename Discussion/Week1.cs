@@ -10,6 +10,7 @@
             Console.WriteLine("Test by Lun");
             Console.WriteLine("Test by Chun");
             Console.WriteLine("Test by Lun2");
+            Console.WriteLine("Testing by Kan");
         }
     }
 }
